@@ -1,6 +1,10 @@
 streamlit
+python-dotenv
 langchain
+langchain-core
 langchain-community
-pypdf
+langchain-ollama
+langchain-text-splitters
 faiss-cpu
 sentence-transformers
+pypdf
