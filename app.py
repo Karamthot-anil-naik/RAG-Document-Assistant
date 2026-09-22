@@ -9,7 +9,8 @@ from langchain_ollama import ChatOllama, OllamaEmbeddings
 from langchain_community.document_loaders import TextLoader, PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
-from sentence_transformers import CrossEncoder
+from sentence_transformers import CrossEncoder4
+
 
 
 
